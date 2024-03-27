@@ -6,7 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Ежедневник</title>
-    @vite(['resources/css/diary.css'])
+    @vite(['resources/css/diary.css','resources/js/diary.js'])
 </head>
 <body>
 <h1>Ежедневник</h1>
